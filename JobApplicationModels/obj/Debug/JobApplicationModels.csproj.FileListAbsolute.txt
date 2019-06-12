@@ -1,0 +1,5 @@
+C:\Users\manbab\source\repos\EmployerService\JobApplicationModels\bin\Debug\JobApplicationModels.dll
+C:\Users\manbab\source\repos\EmployerService\JobApplicationModels\bin\Debug\JobApplicationModels.pdb
+C:\Users\manbab\source\repos\EmployerService\JobApplicationModels\obj\Debug\JobApplicationModels.csproj.CoreCompileInputs.cache
+C:\Users\manbab\source\repos\EmployerService\JobApplicationModels\obj\Debug\JobApplicationModels.dll
+C:\Users\manbab\source\repos\EmployerService\JobApplicationModels\obj\Debug\JobApplicationModels.pdb
